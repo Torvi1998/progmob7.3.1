@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">progmob7.3.1</string>
+    <string name="top_text">Press the button to see if you are connected to the internet!</string>
+    <string name="button">TEST CONNECTION</string>
+</resources>
